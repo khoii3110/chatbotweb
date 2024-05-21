@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "tag": "nghe_nghiep_sinh_vien",
+            "patterns": [
+                "toi muon ban tu van nghe nghiep cho toi",
+                "theo ban toi nen hoc nganh gi",
+                "toi la mot sinh vien toi dang muon chon nganh hoc",
+                "toi nen hoc nganh gi de co viec",
+                "toi co the chon nghe gi"
+            ],
+            "responses": [
+                "Để chọn nghề nghiệp cho bản thân bạn cần dựa vào nhiều yếu tố, nhưng tôi có thể giúp bạn biết một số ngành học đang hot hiện nay, các ngành đó như sau: Xây dựng, công nghệ thông tin, bán dẫn - vi mạch, y tế, giáo dục. Nếu có câu hỏi nòa đừng ngần ngại, tôi sẽ giúp bạn.",
+                "Một số nghề nghiệp hiện nay đang thu hút nhiều nguồn nhân lực như: Công nghệ thông tin, bán dẫn. Tuy nhiên để chọn được nghàn học cho bản thân bạn cần phải tham khảo từ nhiều nguồn khác như những người đi trước, tìm ra điểm mạnh- điểm yếu bản thân. Chúc bạn có thể chon được nghề nghiệp ưng ý nhé."
+            ]
+        },
+        {
+            "tag": "lydo_sv_that_nghiep",
+            "patterns": [
+                "ly do sinh vien that nghiep",
+                "tai sao ngay cang nhieu sinh vien that nghiep",
+                "sv that nghiep nhieu do nhung yeu to nao",
+                "tai sao sinh vien that nghiep",
+                "sinh vien that nghiep do dau"
+            ],
+            "responses": [
+                "Theo như tôi tìm hiểu thì nhiều sinh viên thất nghiệp do những lý do sau: Thiếu định hướng nghề nghiệp, Chương trình đào tạo chưa đáp ứng nhu cầu thị trường, Kỹ năng mềm yếu, Ảnh hưởng của đại dịch Covid-19, Sự chênh lệch về chất lượng giáo dục, Tâm lý e dè, ngại khó",
+                "Ngày càng nhiều sinh viên thất nghiệp do thiếu kĩ năng, trong khi hiện nay doanh nghiệp cần nhũng nhân công tay nghề cao, yêu cầu trình độ chuyên sâu. Trái lại nhiều vấn đề hiện đang hoành hành làm cho sinh viên xa đọa, xoa nhã việc học.",
+                "Nhiều sinh viên thất nghiệp có thể do ảnh hưởng của đại dịch covid 19, các cuộc chiến tranh xảy ra gần đây trên thế giớ, sự suy thoái kinh tế toàn cầu cũng góp phần lớn vào việc làm cho sinh viên thất nghiệp nói riêng và người lao đôngj nói chung ra tăng tỉ lệ bị xa thải, không có việc làm."
+            ]
+         }
+    ]
+}

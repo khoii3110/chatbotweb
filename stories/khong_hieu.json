@@ -1,0 +1,16 @@
+{
+    "intents": [
+        {
+            "tag": "khong_hieu",
+            "patterns": [
+            ],
+            "responses": [
+                "Xin lỗi! Tôi không hiểu bạn cần thông tin gì. Hãy cung cấp thông tin rõ hơn tôi sẽ giúp bạn.",
+                "Xin lỗi! Tôi không hiểu. Bạn có thể nói rõ hơn không",
+                "Xin lỗi! Tôi không hiểu. Bạn có thể nhập lại với nguồn thông tin đầy đủ hơn không",
+                "Xin lỗi! Tôi là chat bot TIMI được xây dựng trên mô hình AI được phát triển bởi nhóm nghiên cứu trí tuệ nhân tạo, có thể thông tin của bạn bạn cần khá mới nên có thể tôi chưa được cập nhật.",
+                "Dường như câu hỏi của bạn không rõ ràng hoặc có thể là một phần của một câu chuyện lớn hơn. Nếu bạn có thêm thông tin hoặc câu hỏi cụ thể, hãy cung cấp thêm thông tin để tôi có thể hỗ trợ bạn một cách chính xác hơn."
+            ]
+        }
+    ]
+}

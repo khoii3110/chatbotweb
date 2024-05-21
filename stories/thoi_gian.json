@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "tag": "thoi_gian",
+            "patterns": [
+              "thoi gian hien tai la",
+              "toi muon biet thoi gian hien tai",
+              "ban co the cung cap thoi gian hien tai không",
+              "cho toi biet thoi gian bay gio",
+              "cung cap thong tin thoi gian cho toi"
+            ],
+            "responses": [
+                "Xin lỗi! Tôi là chatbot cơ bản, và chức năng cung cấp thông tin về thời gian thực hiện đang được xây dựng.",
+                "Chức năng cung cấp về thời gian thực chưa được hoàn thiện và nó sẽ được hoàn thiện sau. Bạn có thể hỏi tôi về vấn đề khác."
+            ]
+         },
+        {
+            "tag": "giogiac",
+            "patterns": [
+                "hien tai la may gio",
+                "may gio roi",
+                "bay gio la may gio",
+                "toi muon biet hien tai la may gio",
+                "cho toi biet may gio roi",
+                "gio giac hien tai"
+            ],
+            "responses": [
+                "Xin lỗi! Tôi là chatbot cơ bản, và chức năng cung cấp thông tin về thời gian thực hiện đang được xây dựng.",
+                "Chức năng cung cấp về thời gian thực chưa được hoàn thiện và nó sẽ được hoàn thiện sau. Bạn có thể hỏi tôi về vấn đề khác."
+            ]
+         }
+    ]
+}

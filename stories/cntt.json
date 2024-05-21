@@ -1,0 +1,62 @@
+{
+    "intents": [
+        {
+            "tag": "thong_tin_cntt",
+            "patterns": [
+                "Thong tin ve nganh cong nghe thong tin",
+                "nganh cong nghe thong tin",
+                "chi tiet cho toi nganh cong nghe thong tin",
+                "toi muon biet thong tin nganh cong nghe thong tin",
+                "nganh cong nghe thong tin la gi"
+
+            ],
+            "responses": [
+                "Ngành Công nghệ Thông tin (CNTT) là một lĩnh vực rộng lớn bao gồm việc sử dụng máy tính và phần mềm để thu thập, lưu trữ, xử lý, truyền tải và sử dụng thông tin. Ngành CNTT đóng vai trò quan trọng trong hầu hết mọi khía cạnh của đời sống hiện đại, từ kinh doanh và giáo dục đến y tế và giải trí. Các lĩnh vực chính trong ngành này là: Khoa học máy tính, công nghệ phần mềm, hệ thống mạng, an ninh mạng, dữ liệu lớn, trí tuệ nhân tạo."
+            ]
+        },
+        {
+            "tag": "khmt",
+            "patterns": [
+                "thong tin ve khoa hoc may tinh",
+                "khoa hoc may tinh lam ve van de gi",
+                "chi tiet khoa hoc may tinh lam nhung gi",
+                "cho toi biet khoa hoc may tinh",
+                "toi can biet ve khoa hoc may tinh lam gi"
+
+            ],
+            "responses": [
+                "Khoa học máy tính: Nghiên cứu về các nền tảng lý thuyết của máy tính và phần mềm.",
+                "Khoa học máy tính là một lĩnh vực nghiên cứu và ứng dụng các phương pháp tính toán để giải quyết các vấn đề trong nhiều lĩnh vực khác nhau. Cụ thể, nó bao gồm: Machine Learning (Học máy), Trí tuệ nhân tạo (Artificial Intelligence), Xử lý ngôn ngữ tự nhiên (Natural Language Processing), Thị giác máy tính (Computer Vision), Công nghệ Blockchain và Cryptocurrency."
+            ]
+        },
+        {
+            "tag": "congnghephanmem",
+            "patterns": [
+                "cong nghe phan mem lam gi",
+                "ung dung cua cong nghe phan mem",
+                "cho toi biet chi tiet cong nghe phan mem",
+                "viec ma ki su cong nghe phan mem phai lam",
+                "cong viec thuong ngay cua ki su cong nghe phan mem"
+            ],
+            "responses": [
+                "Công nghệ phần mềm: Thiết kế, phát triển, thử nghiệm và bảo trì phần mềm.",
+                "Công nghệ phần mềm là một nhánh chuyên môn của công nghệ thông tin tập trung vào thiết kế, phát triển, thử nghiệm và bảo trì phần mềm. Đây là lĩnh vực rất rộng, bao gồm nhiều hoạt động khác nhau, mỗi hoạt động đóng vai trò quan trọng trong việc tạo ra các sản phẩm phần mềm chất lượng cao phục vụ đa dạng mục đích. Dưới đây là một số hoạt động chính trong công nghệ phần mềm: Phân tích Yêu cầu, Thiết kế Phần mềm, Phát triển và Lập trình, Thử nghiệm Phần mềm, Bảo trì Phần mềm, Quản lý Dự án Phần mềm, Tích hợp và triển khai Hệ thống"
+
+            ]
+        },
+        {
+            "tag": "htmang",
+            "patterns": [
+                "thong tin nganh he thong mang",
+                "he thong mang lam nhung gi",
+                "nganh hẹ thong mang",
+                "chi tiet ve he thong mang cho toi",
+                "toi can biet ve nganh he thong mang",
+                "nganh mang may tinh"
+            ],
+            "responses": [
+                "Ngành hệ thống mạng, thường được biết đến với tên gọi 'mạng máy tính' hoặc 'quản lý mạng', là lĩnh vực chuyên môn trong công nghệ thông tin (IT) liên quan đến thiết kế, cài đặt, quản lý và bảo trì các mạng máy tính. Mạng máy tính có thể bao gồm mạng LAN (Local Area Network), WAN (Wide Area Network), mạng không dây và các mạng liên kết khác. Dưới đây là các khía cạnh chính của ngành hệ thống mạng: Thiết kế Mạng, Cài đặt và Cấu hình, Bảo mật Mạng, Quản lý Mạng, Bảo trì Mạng..."
+            ]
+        }
+    ]
+}

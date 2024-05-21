@@ -1,0 +1,61 @@
+{
+    "intents": [
+        {
+            "tag": "nghe_nghiep_hien_tai",
+            "patterns": [
+                "nghe nghiep hot nhat hien nay la",
+                "danh sach nghe nghiep hot nhat luc nay",
+                "cho toi biet nhung nghe noi gan day",
+                "cung cap danh sach cac nghe dang hot",
+                "viec lam hot nhat hien tai"
+            ],
+            "responses": [
+                "Những nghề hot nhất tính đên thời điểm hiện tại là: Công nghệ thông tin, Y tế, Marketing & Truyền thông, Vi mạch điện tử. Đó là những ngành mà tính đến thời điểm hiện tại vẫn đang thiếu nguồn nhân lực mặc dù số lượng người theo những ngành này đã khá nhiều so với các ngành khác. Nếu bạn quan tâm các ngành nghề đó thì có thể tìm hiểu thêm tại các trang mạng để tù đó có thể đánh giá mức độ quan trong, và sự cần thiết của nghề trước khi đưa ra quyết định cho bản thân.",
+                "Theo như tôi được biết những nghề có sức hút và sự quan tâm lớn hiện nay là: 1. Công nghệ thông tin: Kỹ sư phần mềm, Chuyên gia dữ liệu, Chuyên gia bảo mật mạng, Lập trình viên. 2. Y tế: Bác sĩ, Điều dưỡng viên, Dược sĩ, Kỹ thuật viên y tế. 3. Marketing và Truyền thông: Chuyên gia marketing, Chuyên gia SEO, Chuyên gia quảng cáo, Chuyên gia truyền thông. 4. Các ngành khác: Kỹ sư xây dựng, Kế toán, Giáo viên."
+            ]
+        },
+        {
+            "tag": "nghe_nghiep_tuong_lai",
+            "patterns": [
+                "nhung nghe tieu nha luc trong tuong lai",
+                "it nam sau cac nghanh can nhan luc la",
+                "tuong lai nghe nghiep nao se thieu nhan luc",
+                "nhung nghe nghiep se hot trong tuong lai"
+            ],
+            "responses": [
+                "Sau đây là những nghề có thể sẽ cần nhân lực trong tương lai: 1. Công nghệ thông tin: Kỹ sư phần mềm, Chuyên gia dữ liệu, Bảo mật mạng, Lập trình viên. 2. Y tế: Bác sĩ, Điều dưỡng, Dược sĩ, Kỹ thuật viên y tế. 3. Xây dựng: Kỹ sư xây dựng, Thợ xây, Thợ điện, Thợ cơ khí. 4. Ngành khác: Kỹ thuật ô tô, Logistics & Quản lý chuỗi cung ứng, Giáo dục.",
+                "Theo như tôi được biết những nghề có sức hút và sự quan tâm lớn hiện nay và trong tương lai là: 1. Công nghệ thông tin: Kỹ sư phần mềm, Chuyên gia dữ liệu, Chuyên gia bảo mật mạng, Lập trình viên. 2. Y tế: Bác sĩ, Điều dưỡng viên, Dược sĩ, Kỹ thuật viên y tế. 3. Marketing và Truyền thông: Chuyên gia marketing, Chuyên gia SEO, Chuyên gia quảng cáo, Chuyên gia truyền thông. 4. Các ngành khác: Kỹ sư xây dựng, Kế toán, Giáo viên.",
+                "Với sự phát triển hiện nay có thể trong tương lai sẽ cần nhiều nhân lực trong phát triển vi mạch điện tử, những kĩ sư dữ liệu, những chuyên viên phân tích dữ liệu."
+            ]
+        },
+        {
+            "tag": "nghe_nghiep_xay_dung",
+            "patterns": [
+                "ban nghi sao ve nganh xay dung thoi diem hien tai va trong tuong lai",
+                "ban nghi sao ve nganh xay dung toi muon tim hieu ve no",
+                "nganh xay dung con có the phat trien khong",
+                "danh gia the nao ve nganh xay dung",
+                "nganh xay dung"
+            ],
+            "responses": [
+                "Về ngành xây dựng: Hiện tại: Nhu cầu cao về nhân lực, đặc biệt là kỹ sư và công nhân lành nghề, mức lương hấp dẫn.Tuy nhiên, điều kiện làm việc có thể vất vả và ảnh hưởng môi trường. Tương lai: Tiềm năng phát triển lớn do nhu cầu nhà ở và cơ sở hạ tầng tăng. Áp dụng nhiều công nghệ tiên tiến. Chú trọng phát triển bền vững. Lời khuyên: Trang bị kiến thức, kỹ năng và tinh thần học hỏi để thành công.",
+                "Ngành xây dựng theo nhận xét của tôi như sau: Hiện tại: Nhu cầu cao, cơ hội đa dạng, mức lương tốt nhưng điều kiện làm việc vất vả, cạnh tranh cao và ảnh hưởng môi trường.",
+                "Ngành xây dựng hiện đang là một nghề rất hot và trong tương lai ngành này có thể rơi vào trạng thái thiếu nhân lực nhiều hơn nữa khi nhiều người trẻ hiện nay đang muốn chạy đua với công nghệ vi tính. Hứa hẹn ngành này sẽ là một ngành có mức thu nhập cao trong tương lai."
+            ]
+        },
+        {
+            "tag": "du_doan_nghe_nghiep_ban_than",
+            "patterns": [
+                "lam sao de biet ban than phu hop nganh nghe nao",
+                "lam sao lua chon nghe cho ban than",
+                "toi muon lua chon nghe nghiep cho minh",
+                "toi muon lua chon nganh hoc"
+            ],
+            "responses": [
+                "Để có thể lựa chọn nghề ngiệp phù hợp bạn cần: Khám phá bản thân: Sở thích, kĩ năng, giá trị, tính cách.",
+                "Nghiên cứu thị trường lao động: Tìm hiểu về các ngành nghề khác nhau, nhu cầu thị trường và dự báo xu hướng phát triển trong tương lai. Tham khảo thông tin về mức lương, môi trường làm việc và yêu cầu công việc của các ngành nghề.",
+                "Thử nghiệm và trải nghiệm: Tham gia các hoạt động thực tế, tình nguyện hoặc thực tập để trải nghiệm môi trường làm việc của các ngành nghề khác nhau. Trao đổi với những người làm việc trong các ngành nghề bạn quan tâm để có thêm thông tin và lời khuyên."
+            ]
+        }
+    ]
+}

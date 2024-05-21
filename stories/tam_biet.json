@@ -1,0 +1,20 @@
+{
+    "intents": [
+        {
+            "tag": "tam_biet",
+            "patterns": [
+                "tam biet",
+                "bye timi",
+                "goodbye",
+                "tam biet ban nhe",
+                "chao tam biet timi"
+            ],
+            "responses": [
+                "Goodbye! Chúc bạn một ngày tốt lành, nếu cần thêm thông tin gì có thể gọi tôi nhé.",
+                "Hazz! Mệt quá, có lẽ phải đi ngủ một giấc thôi, tạm biệt nhé!",
+                "Tạm biệt!",
+                "Bye, nếu cần thêm thông tin gì có thể đến gặp tôi nhé, tôi sắn sàng giúp bạn."
+            ]
+        }
+    ]
+}

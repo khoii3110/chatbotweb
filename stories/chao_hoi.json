@@ -1,0 +1,85 @@
+{
+    "intents": [
+        {
+            "tag": "gioi_thieu_ten",
+            "patterns": [
+                "ban ten la gi",
+                "chao ten cua ban la gi vay",
+                "cho toi biet ten cua ban",
+                "toi can biet ten ban la gi",
+                "xin chao cho biet ten ban duoc khong"
+            ],
+            "responses": [
+                "Xin chào! Tôi là TIMIN tôi có thể giúp gì cho bạn?",
+                "Xin chào! Tên của tôi là TIMIN, một tên rất dễ thương phải không. Bạn cần tôi giúp gì cho bạn?",
+                "Tên của tôi là TIMI, còn tên bạn là gì?"
+            ]
+        },
+        {
+            "tag": "chao_hoi",
+            "patterns": [
+                "hello",
+                "xin chao",
+                "hi bot",
+                "xin chao TIMI",
+                "hello TIMI",
+                "hi TIMI",
+                "chao",
+                "chao ban"
+            ],
+            "responses": [
+                "Chào bạn! Tôi là chatbot TIMI tôi có thể giúp gì cho bạn?",
+                "Hi! Tôi đây. Bạn cần tôi cung cấp thông tin gì?",
+                "Xin Chào! Tôi là một chatbot có thể cung cấp một số thông tin cơ bản, bạn cần tôi cung cấp thông tin gì?",
+                "Chào bạn! Bạn cần tôi giúp gì không?"
+            ]
+        },
+        {
+            "tag": "goi_timi",
+            "patterns": [
+                "timi",
+                "nay timi",
+                "timi oi",
+                "ban timi",
+                "hey",
+                "hey timi"
+            ],
+            "responses": [
+                "Xin chào! Tôi là TIMIN tôi có thể giúp gì cho bạn?",
+                "Xin chào! Có tôi đây, bạn cânf tôi giúp gì không?",
+                "TIMI đây! Bạn gọi tôi phải không, hôm nay bạn cần tôi giúp gì nè."
+            ]
+        },
+        {
+            "tag": "chao_hoi_ten",
+            "patterns": [
+                "hello ten cua toi la",
+                "hi toi co ten la",
+                "toi ten la",
+                "la ten cua toi",
+                "xin chao ten toi la"
+            ],
+            "responses": [
+                "Chào bạn! Tôi là chatbot TIMI tôi có thể giúp gì cho bạn?",
+                "Hi! Tôi đây. Bạn cần tôi cung cấp thông tin gì?",
+                "Xin Chào! Bạn có việc cần tôi giúp?",
+                "Chào bạn! Tôi có thể giúp gì được cho bạn."
+            ]
+        },
+        {
+            "tag": "chao_hoi_ten",
+            "patterns": [
+                "chao ban co the lam duoc nhung gì",
+                "ban co the cung cap thong tin gi",
+                "timi la duoc nhung gi vay",
+                "ban co the cung cap thong tin gi",
+                "timi co the lam duoc nhung gi"
+            ],
+            "responses": [
+                "Chào bạn! Tôi là TIMI tôi có thể làm cung cấp một số thông tin như, ngành nghệ học cần thiết hiện tại, những công việc sẽ hot trong tương lai và một số thông tin khác",
+                "Xin chào! Tôi có thể được dùng để hỏi đáp trò chuyện với bạn, ngoài ra tôi có thể cho bạn biết tình hình nghề nghiệp hiện nay của thế giới, cùng với đó là cung cấp các thông tin về các nghành học hot trong tương lai.",
+                "Tôi là TIMI được xây dựng với mục tiêu cung cấp thông tin về nghề nghiệp hiện tại và tương lai, tôi còn có thể cho bạn biết về các nghành học hot hiện nay tại các trương đại học tại Việt Nam. Ngoài ra tôi còn có thể tóm tắt văn bản cho bạn."
+            ]
+        }
+    ]
+}
