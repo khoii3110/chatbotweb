@@ -2,7 +2,7 @@ import streamlit as st
 import time
 from chat import chat
 
-st.title('Chatbot TIMI')
+st.title('Chatbot Khoi')
 
 # Kiểm tra và khởi tạo session_state nếu cần
 if "messages" not in st.session_state:
@@ -12,6 +12,7 @@ if "messages" not in st.session_state:
 for message in st.session_state.messages:
     with st.chat_message(message['role']):
         st.markdown(message['content'])
+        
 
 # Lấy dữ liệu từ chat_input và xử lý
 if prompt := st.chat_input("Hãy nhập vào yêu cầu?"):
